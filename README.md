@@ -1,6 +1,8 @@
 ![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wisvem&repo=holbertonschool-low_level_programming)](https://github.com/wisvem/holbertonschool-low_level_programming)
 
 # Connect with me:
 
