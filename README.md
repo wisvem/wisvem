@@ -1,6 +1,8 @@
-![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&theme=dark&show_icons=true)
+![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
+
+![wisvem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisvem)
 
 # Connect with me:
 
