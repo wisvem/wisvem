@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wisvem&repo=holbertonschool-low_level_programming)](https://github.com/wisvem/holbertonschool-low_level_programming)
-
 # Connect with me:
 
 [<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
