@@ -4,12 +4,16 @@
 
 # Connect with me:
 
-[<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/8cIERD9.png" />][facebook]
+[<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
 
-[<img align="left" alt="WVM | Youtube" width="35px" src="https://i.imgur.com/8tSdeCe.png" />][youtube]
+[<img align="left" alt="WVM | Youtube" width="35px" src="https://i.imgur.com/6uXXT2P.png" />][youtube]
 
-[<img align="left" alt="WVM | Instagram" width="35px" src="https://i.imgur.com/nl4qNj5.png" />][instagram]
+[<img align="left" alt="WVM | Instagram" width="35px" src="https://i.imgur.com/M6yBwxS.png" />][instagram]
+
+[<img align="left" alt="WVM | Twitter" width="35px" src="https://i.imgur.com/iYkheW1.png" />][Twitter]
 
 [facebook]: https://www.facebook.com/wisvem
 [youtube]: https://www.youtube.com/user/wisvem
 [instagram]: https://www.instagram.com/wisvem/
+[Twitter]: https://www.twitter.com/wisvem/
+
