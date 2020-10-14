@@ -10,7 +10,9 @@
 
 [<img align="left" alt="WVM | Twitter" width="35px" src="https://i.imgur.com/iYkheW1.png" />][Twitter]
 
+[<img align="left" alt="WVM | Medium" width="50px" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" />][Medium]
+
 [facebook]: https://www.facebook.com/wisvem
 [instagram]: https://www.instagram.com/wisvem/
 [Twitter]: https://www.twitter.com/wisvem/
-
+[Medium]: https://www.medium.com/@wisvem
