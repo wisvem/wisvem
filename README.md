@@ -1,3 +1,5 @@
+![WVM's github stats](https://github-readme-stats.vercel.app/api?username=wisvem)
+
 # Connect with me:
 
 [<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/8cIERD9.png" />][facebook]
