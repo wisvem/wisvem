@@ -1,16 +1,14 @@
 I'm Wiston, a Full-stack developer student at Holberton School!
 
 [![Twitter Badge](https://img.shields.io/badge/-@wisvem-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=wisvem "Follow on Twitter")
-
 [![Linkedin Badge](https://img.shields.io/badge/-wisvem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/wisvem/)
-
 [![Instagram Badge](https://img.shields.io/badge/-wisvem-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wisvem/)](https://instagram.com/wisvem)
-
 [![Medium Badge](https://img.shields.io/badge/-@wisvem-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@wisvem/)](https://medium.com/@wisvem)
+[![Facebook Badge](https://img.shields.io/badge/wisvem-00acee?style=flat&logo=Facebook&logoColor=white&link=https://medium.com/@wisvem/)](https://medium.com/@wisvem)
+
 
 
 ![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
 
 ![wisvem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisvem)
