@@ -8,6 +8,7 @@ I'm Wiston, a Full-stack developer student at Holberton School!
 
 ![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
+![wisvem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisvem)
 
 <!--
 [<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
