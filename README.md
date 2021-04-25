@@ -1,4 +1,6 @@
-I'm Wiston, a Full-stack developer student at Holberton School!
+I'm Wiston, a software developer student at Holberton School!
+
+During your visit to my profile you could notice my evolution as a developer.  How my commits were getting better and better over time. The approach that I've given to every task.  Enjoy!
 
 [![Twitter Badge](https://img.shields.io/badge/-@wisvem-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=wisvem "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-wisvem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/wisvem/)
