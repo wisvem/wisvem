@@ -9,9 +9,8 @@ During your visit to my profile you could notice my evolution as a developer.  H
 [![Facebook Badge](https://img.shields.io/badge/wisvem-00acee?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/wisvem/)](https://facebook.com/wisvem)
 
 ![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
 
-<!--
 [<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
 
 [<img align="left" alt="WVM | Instagram" width="35px" src="https://i.imgur.com/M6yBwxS.png" />][instagram]
