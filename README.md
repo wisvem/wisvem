@@ -1,12 +1,10 @@
-I'm Wiston, a full stack software developer
-
-During your visit to my profile you could notice my evolution as a developer.  How my code has been getting better and better over time and the approach that I've given to every project.  Enjoy!
+Welcome to my github
 
 <br><br>
 
 # Skills 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-Django-4DB33D?style=flat&logo=django&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/-PostgreSQL-00599C?style=flat&logo=postgresql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Django-4DB33D?style=flat&logo=django&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/-PostgreSQL-00599C?style=flat&logo=postgresql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 <br><br>
 
