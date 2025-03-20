@@ -16,7 +16,7 @@ Welcome to my github
 [![Medium Badge](https://img.shields.io/badge/-@wisvem-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@wisvem/)](https://medium.com/@wisvem)
 [![Facebook Badge](https://img.shields.io/badge/wisvem-00acee?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/wisvem/)](https://facebook.com/wisvem)
 
-![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
+<!--![wisvem's github stats](https://github-readme-stats.vercel.app/api?username=wisvem&show_icons=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisvem&layout=compact)
 
 [<img align="left" alt="WVM | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
